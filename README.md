@@ -3,8 +3,8 @@
 ## Assignment Details
 - **Course:** CSA0805 – Python Programming
 - **Assignment:** Design, Implement and Validate a Payment Calculator for a Village Milk Co-operative
-- **Student Name:** Enter your name
-- **Register Number:** Enter your register number
+- **Student Name:** R.KAVIYA
+- **Register Number:** 192519089
 
 ## Project Description
 This project calculates milk payments for farmers based on milk quantity, fat percentage and SNF percentage. It includes input validation, rate calculations, ten-day payment totals, testing and seasonal rate adjustments.
